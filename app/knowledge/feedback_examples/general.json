@@ -1,0 +1,19 @@
+{
+  "feedback_examples": [
+    {
+      "strengths": "Good use of functions to organize code. Variable names are clear and descriptive.",
+      "improvements": "Remember to use === instead of ==. Check array bounds to avoid off-by-one errors.",
+      "overall_comment": "Great start! Keep practicing and pay attention to edge cases."
+    },
+    {
+      "strengths": "Logic is correct and handles basic cases well.",
+      "improvements": "Add input validation. Use const for values that don't change. Consider using array methods like map or filter.",
+      "overall_comment": "Solid work. Try refactoring to use modern JavaScript features."
+    },
+    {
+      "strengths": "Code is well-structured with proper indentation. Good use of comments.",
+      "improvements": "Be careful with type coercion. Always declare variables with let or const. Test with edge cases like empty arrays.",
+      "overall_comment": "Excellent effort! Your code organization is good, focus on JavaScript-specific details next time."
+    }
+  ]
+}

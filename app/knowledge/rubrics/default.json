@@ -1,0 +1,25 @@
+{
+  "rubric": "JavaScript Assignment Grading Rubric",
+  "criteria": [
+    {
+      "name": "correctness",
+      "max_score": 10,
+      "description": "Code works correctly with no bugs. Handles edge cases."
+    },
+    {
+      "name": "efficiency",
+      "max_score": 10,
+      "description": "Code is efficient. No unnecessary loops or redundant operations."
+    },
+    {
+      "name": "style",
+      "max_score": 10,
+      "description": "Code follows consistent formatting. Proper indentation, naming conventions."
+    },
+    {
+      "name": "documentation",
+      "max_score": 10,
+      "description": "Variables are well-named. Code is readable and self-documenting."
+    }
+  ]
+}
